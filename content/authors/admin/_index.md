@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
 - Music and Audio Information Retrieval
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a  research scientist at the  Agency for Science, Technology and Research A*STAR in Singapore with a joint appointment with the Semantic Music Technologies group at Fraunhofer IDMT in Germany. My PhD work started off from my interest to apply MIR technologies in music education. 
+Since then, I have worked in sound source separation, music information retrieval, computational musicology, audio processing, among other research topics. Since 2012, I am the CSO and co-founder of Songquito, a small company that builds 
+music education apps such as [Song2See] (https://www.song2see.com). I have worked in a number of applied research projects with industry partners, as well as in European, German, and Asian research projects.

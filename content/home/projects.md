@@ -3,10 +3,12 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Projects"
+title = "things that keep me busy"
 subtitle = ""
+
+
 
 [content]
   # Page type to display. E.g. project.
@@ -22,8 +24,8 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+     name = "All"
+     tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -35,7 +37,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -53,7 +55,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  #color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -73,4 +75,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
