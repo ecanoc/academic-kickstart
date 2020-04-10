@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/document/8901720
 url_code:
 url_dataset:
 url_poster: "poster_MMSP.pdf"
