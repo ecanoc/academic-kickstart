@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-#date = "2012-02-24"
+#date = "2020-05-01"
 
 # Project title.
 title = "Music Education"
@@ -13,17 +13,18 @@ summary = "Technologies and MIR for music education."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Music Education"]
+tags = ["Music Education", "Topics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.songs2see.com/en/"
+external_link = "https://songs2see.com/en/"
 
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/bubbles-wide.jpg"
+#image = ""
 #caption = "My caption :smile:"
 
 +++
+

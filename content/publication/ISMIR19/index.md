@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: http://archives.ismir.net/ismir2019/paper/000061.pdf
 url_code:
 url_dataset:
 url_poster: "poster_ISMIR.pdf"

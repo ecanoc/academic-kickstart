@@ -13,7 +13,7 @@ summary = "Analysis of micro-timing variations in Shetland fiddle music."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Musicology"]
+tags = ["Computational Musicology", "MIR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/ecanoc/ShetlandFiddles"

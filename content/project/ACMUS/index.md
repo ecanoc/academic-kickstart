@@ -13,7 +13,7 @@ summary = "Computational musicology, machine learning and Colombian music."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Musicology"]
+tags = ["Computational Musicology", "Deep Learning", "MIR", "Topics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://acmus-mir.github.io/"
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/colombia.png"
+#image = "logoecanoc.png"
 #caption = "My caption :smile:"
 
 +++

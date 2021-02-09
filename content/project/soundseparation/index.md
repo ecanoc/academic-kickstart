@@ -13,7 +13,7 @@ summary = "Sound source separation applied to music and audio."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Separation"]
+tags = ["Source Separation", "Topics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://soundseparation.songquito.com/"
