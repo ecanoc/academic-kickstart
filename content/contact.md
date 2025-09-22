@@ -74,7 +74,7 @@ pager: false
       <input type="hidden" name="apiKey" value=sf_7kjdg409lik2756e994290lm>
       <input type="hidden" name="subject" value="New Contact Form Submission">
       <input type="hidden" name="replyTo" value="@">
-      <input type="hidden" name="redirectTo" value="https://yoursite.com/thank-you">
+      <input type="hidden" name="redirectTo" value="https://ecanoc.github.io/thanks">
       <button type="submit" class="submit-btn">Send Message</button>
     </form>
   </div>
