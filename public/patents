@@ -1,7 +1,0 @@
----
-# Leave the homepage title empty to use the site title
-title: "Patents"
-share: False
-cms_exclude: true
-reading_time: False
----
