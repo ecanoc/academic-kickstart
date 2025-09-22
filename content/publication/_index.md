@@ -9,4 +9,9 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+
 ---
+
+ A few selected publications are listed below. The full list of publications can be found in my <a href="https://scholar.google.com/citations?user=l7cDVbIAAAAJ&hl=en/">Google Scholar</a> profile. 
+

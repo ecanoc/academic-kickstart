@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles | Hugo Academic CV Theme</title>
+    <link>https://example.com/articles/</link>
+      <atom:link href="https://example.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Articles</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Articles</title>
+      <link>https://example.com/articles/</link>
+    </image>
+    
+    <item>
+      <title>Beat Tracking Explained</title>
+      <link>https://example.com/articles/ax_beat_tracking_july2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/articles/ax_beat_tracking_july2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

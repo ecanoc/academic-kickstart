@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Review | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/product-review/</link>
+      <atom:link href="http://localhost:1313/tags/product-review/index.xml" rel="self" type="application/rss+xml" />
+    <description>Product Review</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Product Review</title>
+      <link>http://localhost:1313/tags/product-review/</link>
+    </image>
+    
+    <item>
+      <title>Nugen Audio DialogCheck: Measuring Speech Clarity</title>
+      <link>http://localhost:1313/articles/ax_lemeter_oct2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/ax_lemeter_oct2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

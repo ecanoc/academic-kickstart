@@ -29,13 +29,14 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: true
-    block: 'navbar'
+    enable: True
+    blox: "navbar"
+    align: "center"
     fixed_to_top: true
-    show_search: true
+    show_search: False
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: "Estefanía Cano"
 
 # Site footer
 footer:
