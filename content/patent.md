@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Patents"
+title: ""
 share: False
 cms_exclude: true
 reading_time: False
@@ -8,8 +8,11 @@ show_date: false
 #backlinks: false
 pager: false
 
-view: list
+#design:
+#  css_style: 'custom'
+  #css_class: 'custom'
 ---
+# Patents
 
 - **US11704360B2: [Apparatus and method for providing a fingerprint of an input signal](https://patents.google.com/patent/EP3776550B1/en?inventor=estefania+cano&status=GRANT&type=PATENT/)**
 

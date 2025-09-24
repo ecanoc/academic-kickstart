@@ -55,11 +55,28 @@ profiles:
     url: https://scholar.google.com/citations?user=l7cDVbIAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1056-5844
-  
 ---
 
-## 
+<head>
+  <meta charset="UTF-8">
+  <title>Margin Example</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .content {
+      width: 90%; 
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <p>Estefanía is the Chief Scientist at AudioSource, where she leads the development of AI-based sound separation technologies. With a deep expertise in machine learning and artificial intelligence applied to music and audio, her work bridges foundational research with real-world applications. Previously, Dr. Cano developed music-based medical technologies at the Agency for Science, Technology and Research (A*STAR) in Singapore and led innovations in music information retrieval, sound source separation, and audio fingerprinting at the Fraunhofer Institute for Digital Media Technology IDMT in Germany.</p>
+    <p> For a detailed employment history, please visit my <a href="https://www.linkedin.com/in/estefania-cano/">LinkedIn</a>{{< icon name="brands/linkedin" >}} profile.</p>
+  </div>
+</body>
 
-Estefanía is the Chief Scientist at AudioSource, where she leads the development of AI-based sound separation technologies. With a deep expertise in machine learning and artificial intelligence applied to music and audio, her work bridges foundational research with real-world applications. Previously, Dr. Cano developed music-based medical technologies at the Agency for Science, Technology and Research (A*STAR) in Singapore and led innovations in music information retrieval, sound source separation, and audio fingerprinting at the Fraunhofer Institute for Digital Media Technology IDMT in Germany.
 
-For a detailed employment history, please visit my <a href="https://www.linkedin.com/in/estefania-cano/">LinkedIn</a>{{< icon name="brands/linkedin" >}} profile.
