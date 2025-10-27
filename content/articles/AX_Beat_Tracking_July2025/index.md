@@ -27,8 +27,8 @@ tags:
 featured: false
 
 links:
-  #- type: pdf
-  #  url: http://arxiv.org/pdf/1512.04133v1
+  - type: web
+    url: https://audioxpress.com/article/audio-processing-beat-tracking-explained
   #- type: code
   #  url: https://github.com/HugoBlox/hugo-blox-builder
   #- type: dataset

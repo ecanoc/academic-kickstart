@@ -6,7 +6,7 @@ authors:
 date: "2025-11-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-01T00:00:00Z"
+publishDate: "2025-10-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -44,8 +44,8 @@ links:
   #  url: ""
   #- type: slides
   #  url: https://www.slideshare.net/
-  #- type: source
-  #  url: ""
+  - type: source
+    url: "https://cc-webshop.com/collections/archives-audioxpress-issues-pdfs/products/audioxpress-november-2025-pdf"
   #- type: video
   #  url: ""
 
