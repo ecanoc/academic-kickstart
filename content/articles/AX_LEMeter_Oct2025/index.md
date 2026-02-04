@@ -37,6 +37,8 @@ featured: false
 #    arxiv: 1512.04133v1
 
 links:
+    - type: web
+      url: https://audioxpress.com/article/fresh-from-the-bench-nugen-audio-dialogcheck-measuring-speech-clarity
     - type: source
       url: "https://cc-webshop.com/collections/latest-editions/products/audioxpress-october-2025-pdf"
   
